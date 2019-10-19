@@ -1,6 +1,6 @@
-*ABOUT APPLICATION*
+# *ABOUT APPLICATION*
 
-This Application® was developed by me as I.P. Project when i was in class 12th.
+This Application® was developed by me as Informatics Practices(I.P.) Project when i was in standard 12th.
                                     
 This Application is only for Project Purposes and not for commercial or selling purposes.
 
