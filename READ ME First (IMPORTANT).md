@@ -1,4 +1,4 @@
-*IMPORTANT*
+*IMPORTANT*  :
 Paste the three DataBase files given in the folder named "DataBase Files" at the location given below BEFORE running the application :
 
-# Location for Windows OS =>    C:\Users\<Your User Name>
+# *Location*  => C:\Users\<Your User Name>
